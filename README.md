@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Sam
-Software developer for the Zumba app
+, Software developer for the Zumba app
 <!--
 **Lime-oss-hash/Lime-oss-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
