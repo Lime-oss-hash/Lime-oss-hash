@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-I am Sam
-, Software developer for the Zumba app
-
-**Lime-oss-hash/Lime-oss-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sam, a Software developer 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a C# application for a livestock farm
+- 🌱 I’m currently learning IT bachlor degree at Wintec
+- 👯 I’m looking to collaborate on software related work
+- 🤔 I’m looking for help with some smart contract questions
+- 💬 Ask me about coding related
+- 📫 How to reach me: dedicationpop@outlook.com
+- ⚡ Fun fact: Video games is my thing
 
