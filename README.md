@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on software related work
 - 🤔 I’m looking for help with some smart contract questions
 - 💬 Ask me about coding related
-- 📫 How to reach me: dedicationpop@outlook.com
+- 📫 How to reach me: sam2319667268@gmail.com
 - ⚡ Fun fact: Video games is my thing
 
