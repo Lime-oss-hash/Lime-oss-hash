@@ -1,9 +1,9 @@
-Hi there! 👋 I'm Sam, a Full Stack Developer crafting seamless apps from frontend flair to backend muscle.
+Hi, I'm Sam — a full-stack engineer transforming ideas into seamless, modern web experiences.
+🛠️ Tech focus: React, Next.js, TypeScript, Supabase, Clerk, and shadcn UI
+👨‍💻 Recent build: A Trello-inspired project that makes productivity genuinely fun
+🎓 Background: IT degree from Wintec, now solving real-world problems one project at a time
+🚀 Next frontier: Deep-diving into blockchain and smart contracts
+🤝 Collaboration: Whether it’s building web apps, side projects, or experimenting with emerging tech — I’m open to connect and create
 
-🔭 Currently building: A Trello clone—boards, cards, and workflows that actually work (and feel addictive).
-🎓 Post-grad glow-up: Wrapped my IT Bachelor's at Wintec a year ago; now stacking skills in full stack magic.
-🌱 On the rise: Diving into blockchain and smart contracts—Ethereum vibes calling my name (resources welcome!).
-👯 Collab curious: Up for full stack projects, web apps, or dev experiments—let's build something epic together!
-💬 Ask me about: Full stack triumphs (or epic fails), game dev shortcuts, or how Trello changed my chaos-to-clarity game.
-📫 Hit me up: sam2319667268@gmail.com
-⚡ Fun fact: Video games fuel my code marathons—because who needs sleep when you've got loot boxes?
+Want to chat code, productivity, or game dev?
+Reach out: sam2319667268@gmail.com
