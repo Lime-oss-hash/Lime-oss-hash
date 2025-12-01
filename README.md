@@ -25,12 +25,12 @@
 ## 💫 About Me
 
 const sam = {
-  location: "🇳🇿 Hamilton, New Zealand",
-  currentFocus: "Building production-ready full-stack applications",
-  education: "BAppIT Software Engineering @ Wintec (2024)",
-  interests: ["Web3 & Blockchain", "Game Development", "UI/UX Design"],
-  funFact: "I believe great UX is invisible – you only notice bad design",
-  availableFor: ["Full-time opportunities", "Freelance projects", "Open source collaboration"]
+location: "🇳🇿 Hamilton, New Zealand",
+currentFocus: "Building production-ready full-stack applications",
+education: "BAppIT Software Engineering @ Wintec (2024)",
+interests: ["Web3 & Blockchain", "Game Development", "UI/UX Design"],
+funFact: "I believe great UX is invisible – you only notice bad design",
+availableFor: ["Full-time opportunities", "Freelance projects", "Open source collaboration"]
 };
 
 <br/>
@@ -67,9 +67,7 @@ const sam = {
 
 <div align="center">
 
-<a href="https://my-own-trello.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lime-oss-hash&repo=My-Own-Trello&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
+[![My Trello Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lime-oss-hash&repo=My-Own-Trello&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400)](https://github.com/Lime-oss-hash/My-Own-Trello)
 
 </div>
 
@@ -93,10 +91,10 @@ A feature-rich productivity application with modern UI and real-time collaborati
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lime-oss-hash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Sam's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lime-oss-hash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&cache_seconds=86400" alt="Sam's GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lime-oss-hash&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lime-oss-hash&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lime-oss-hash&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph"/>
 
 </div>
@@ -125,14 +123,12 @@ A feature-rich productivity application with modern UI and real-time collaborati
 <br/>
 
 ## 🌱 Current Learning Journey
-
 const learningPath = {
-  exploring: ["Web3 & Smart Contracts", "Advanced TypeScript Patterns"],
-  improving: ["System Design", "Algorithm Optimization"],
-  reading: ["Clean Architecture", "Designing Data-Intensive Applications"],
-  next: "Building production-grade SaaS applications"
+exploring: ["Web3 & Smart Contracts", "Advanced TypeScript Patterns"],
+improving: ["System Design", "Algorithm Optimization"],
+reading: ["Clean Architecture", "Designing Data-Intensive Applications"],
+next: "Building production-grade SaaS applications"
 };
-
 <br/>
 
 ## 🤝 Let's Connect
