@@ -8,7 +8,7 @@
   <a href="mailto:sam2319667268@gmail.com">
     <img src="https://img.shields.io/badge/Email-sam2319667268%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://my-own-trello.vercel.app">
+  <a href="https://taskboard-nextjs.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sam-bai-dev/">
@@ -67,11 +67,11 @@ availableFor: ["Full-time opportunities", "Freelance projects", "Open source col
 
 <div align="center">
 
-[![My Trello Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lime-oss-hash&repo=My-Own-Trello&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400)](https://github.com/Lime-oss-hash/My-Own-Trello)
+[![My Trello Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lime-oss-hash&repo=taskboard-nextjs&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400)](https://github.com/Lime-oss-hash/taskboard-nextjs)
 
 </div>
 
-### 📋 [My Trello Clone](https://my-own-trello.vercel.app)
+### 📋 [My Trello Clone](https://taskboard-nextjs.vercel.app)
 
 A feature-rich productivity application with modern UI and real-time collaboration capabilities.
 
@@ -139,7 +139,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 📧 **Email:** [sam2319667268@gmail.com](mailto:sam2319667268@gmail.com)
 
-🌐 **Live Demo:** [my-own-trello.vercel.app](https://my-own-trello.vercel.app)
+🌐 **Live Demo:** [taskboard-nextjs.vercel.app](https://taskboard-nextjs.vercel.app)
 
 💬 **Open to:** Full-time roles · Freelance work · Open source collaboration
 
