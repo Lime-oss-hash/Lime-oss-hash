@@ -7,16 +7,16 @@
 <p align="center">
   <a href="mailto:sam2319667268@gmail.com">
     <img src="https://img.shields.io/badge/Email-sam2319667268%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>    
+  </a>
   <a href="https://taskboard-nextjs.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>    
+  </a>
   <a href="https://www.linkedin.com/in/sam-bai-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<img src="ieron.com/ghpvc/?username=Lime-oss-hash&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Lime-oss-hash&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
