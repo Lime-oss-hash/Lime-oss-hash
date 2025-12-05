@@ -67,12 +67,6 @@ const sam = {
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-[![My Trello Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lime-oss-hash&repo=taskboard-nextjs&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lime-oss-hash/taskboard-nextjs)
-
-</div>
-
 ### 📋 [My Trello Clone](https://taskboard-nextjs.vercel.app)
 
 A feature-rich productivity application with modern UI and real-time collaboration capabilities.
@@ -93,10 +87,7 @@ A feature-rich productivity application with modern UI and real-time collaborati
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lime-oss-hash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Sam's GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lime-oss-hash&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
