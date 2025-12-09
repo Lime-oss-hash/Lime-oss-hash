@@ -1,22 +1,14 @@
 <div align="center">
 
-# 🚀 Sam Bai
+# Hey, I'm Sam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Open+to+Collaboration" alt="Typing SVG" />
+### 🇳🇿 Junior Full-Stack Developer | Hamilton, NZ
 
-<p align="center">
-  <a href="mailto:sam2319667268@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sam2319667268%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://taskboard-nextjs.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sam-bai-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps;Open+for+Opportunities!" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Lime-oss-hash&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sam2319667268@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://taskboard-nextjs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-bai-dev/)
 
 </div>
 
