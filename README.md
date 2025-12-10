@@ -135,12 +135,6 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 <br/>
 
-<div align="center">
-
-### 💭 Developer Wisdom
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
 ---
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
