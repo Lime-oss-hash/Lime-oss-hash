@@ -79,7 +79,7 @@ A feature-rich productivity application with modern UI and real-time collaborati
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sambai-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 
 </div>
 
@@ -89,7 +89,7 @@ A feature-rich productivity application with modern UI and real-time collaborati
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lime-oss-hash&theme=discord&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sambai-dev&theme=discord&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -141,7 +141,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 ---
 
-**⭐ From [Lime-oss-hash](https://github.com/Lime-oss-hash) with 💙**
+**⭐ From [sambai-dev](https://github.com/sambai-dev) with 💙**
 
 <sub>Built with React, Next.js, and lots of ☕</sub>
 
